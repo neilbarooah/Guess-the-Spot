@@ -1,0 +1,7 @@
+Guess the Spot!
+
+Instructions
+
+Guess the Spot! displays a series of balls on the game window. Watch out! The ball appears only for 0.5 second, so you must be quick. To gain points, you must click the region where the ball appears. For each correct hit, you gain 10 points. Consequently, another ball will appear on a random spot in the window, and the game goes on until you hit on the wrong spot, which ends the game. 
+
+Good luck and enjoy!
